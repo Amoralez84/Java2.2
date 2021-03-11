@@ -12,7 +12,7 @@
 ## Результаты
 
 1. 0% успешных тестов
-1. [Issues](https://github.com/Amoralez84/Java2.2/issues/1)
+1. [Программа сложения бонусов](https://github.com/Amoralez84/Java2.2/issues/1)
 
 ## Общие рекомендации
 
